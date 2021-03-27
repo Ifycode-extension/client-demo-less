@@ -1,4 +1,8 @@
-# ClientDemoLess
+# client-demo-less
+Demo client created to help follow along the tutorial in the article - [Quick, effective and efficient way to test your separately hosted css library on your client, during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1) ***LESS version***.
+
+***LESS library repo***: [library-demo-less](https://github.com/Ifycode/library-demo-less)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
